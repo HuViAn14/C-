@@ -1,0 +1,10 @@
+D:\Study\C#\lab6\Lab_6_app\obj\Debug\Lab_6_app.csproj.AssemblyReference.cache
+D:\Study\C#\lab6\Lab_6_app\obj\Debug\Lab_6_app.Form1.resources
+D:\Study\C#\lab6\Lab_6_app\obj\Debug\Lab_6_app.Properties.Resources.resources
+D:\Study\C#\lab6\Lab_6_app\obj\Debug\Lab_6_app.csproj.GenerateResource.cache
+D:\Study\C#\lab6\Lab_6_app\obj\Debug\Lab_6_app.csproj.CoreCompileInputs.cache
+D:\Study\C#\lab6\Lab_6_app\bin\Debug\Lab_6_app.exe.config
+D:\Study\C#\lab6\Lab_6_app\bin\Debug\Lab_6_app.exe
+D:\Study\C#\lab6\Lab_6_app\bin\Debug\Lab_6_app.pdb
+D:\Study\C#\lab6\Lab_6_app\obj\Debug\Lab_6_app.exe
+D:\Study\C#\lab6\Lab_6_app\obj\Debug\Lab_6_app.pdb
